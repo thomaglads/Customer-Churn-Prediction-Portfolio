@@ -8,6 +8,7 @@ The original dataset was sourced from Kaggle. You can find it here: [Subscriptio
 
 ## Key Findings & Dashboard
 A brief video of the Power BI dashboard can be found in the `/dashboard_assets/` folder.
+<img width="1735" height="976" alt="Screenshot 2025-10-13 130439" src="https://github.com/user-attachments/assets/1dd9db08-2836-4ff8-85b8-bf68a320070f" />
 
 - **Basic Plan, Highest Churn:** The most affordable plan exhibits the highest churn rate, suggesting a potential mismatch between price and value perception for that segment.
 - **Payment Method Risk:** Customers paying by 'Mailed check' are the most likely to churn, indicating a need to modernize payment options.
