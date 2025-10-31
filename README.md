@@ -1,4 +1,4 @@
-# Project Title: Streamify Churn Analysis: "Mailed Check" Payments are the Highest Risk
+# Streamify Churn Analysis: "Mailed Check" Payments are the Highest Risk
 ## Project Overview
 This end-to-end data analytics project analyzes customer churn for Streamify, a fictional streaming service. The project involved data cleaning, exploratory data analysis (EDA), and predictive modeling in Python, culminating in an interactive dashboard in Power BI.
 
